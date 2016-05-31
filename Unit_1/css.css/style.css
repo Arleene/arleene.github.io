@@ -1,1 +1,7 @@
-css
+body {
+	background-color: grey;
+}
+
+hl, p {
+	color: gold;
+}
